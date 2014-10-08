@@ -1,0 +1,6 @@
+D:\我的文档\GitHub\HungrySnack\HungrySnack\HungrySnack\bin\Debug\HungrySnack.exe.config
+D:\我的文档\GitHub\HungrySnack\HungrySnack\HungrySnack\obj\Debug\HungrySnack.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\HungrySnack\HungrySnack\HungrySnack\bin\Debug\HungrySnack.exe
+D:\我的文档\GitHub\HungrySnack\HungrySnack\HungrySnack\bin\Debug\HungrySnack.pdb
+D:\我的文档\GitHub\HungrySnack\HungrySnack\HungrySnack\obj\Debug\HungrySnack.exe
+D:\我的文档\GitHub\HungrySnack\HungrySnack\HungrySnack\obj\Debug\HungrySnack.pdb
